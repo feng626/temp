@@ -1,0 +1,161 @@
+这可能是MySQL在InnoDB中设置了foreign key关联，造成无法更新或删除数据。可以通过设置FOREIGN_KEY_CHECKS变量来避免这种情况。 
+
+SET FOREIGN_KEY_CHECKS = 0;  
+删除完成后设置  
+SET FOREIGN_KEY_CHECKS = 1; 
+
+truncate table table_name;
+
+
+https://blog.csdn.net/qq_36538012/article/details/80748300 搭建vue-cli 脚手架
+
+-----------------------------------------------
+python 太白
+https://www.cnblogs.com/jin-xin/p/9076242.html?tdsourcetag=s_pcqq_aiomsg
+
+数据库 吴超
+https://www.cnblogs.com/clschao/articles/10065275.html?tdsourcetag=s_pcqq_aiomsg
+
+python eva_j
+https://www.cnblogs.com/Eva-J/p/7277026.html
+
+vue 吴超
+https://www.cnblogs.com/clschao/articles/10706528.html
+
+linux 超哥
+https://www.cnblogs.com/pyyu/p/9276851.html
+
+linux 学习笔记
+https://blog.csdn.net/weixin_42425970/article/details/93328668
+
+python 宝元
+https://www.cnblogs.com/guobaoyuan/p/9759601.html
+
+python 武佩琦
+https://www.cnblogs.com/wupeiqi/tag/python之路/
+
+python 学习
+https://www.cnblogs.com/huchong/
+
+python爬虫 张晓波
+https://www.cnblogs.com/bobo-zhang/default.html?page=1
+
+flask 小小入门
+https://www.cnblogs.com/WiseAdministrator/p/11173328.html
+
+django 小小面试复习
+https://www.cnblogs.com/Dr-wei/p/11748509.html
+-----------------------------------------------
+
+
+
+
+-----------------------------------------------
+django channel
+https://www.cnblogs.com/wupeiqi/articles/9593858.html
+
+django restframework 生成swagger文档
+https://blog.csdn.net/m0_37193944/article/details/89497333
+
+django-filter
+https://django-filter.readthedocs.io/en/master/guide/usage.html
+
+django 配置celery
+http://docs.celeryproject.org/en/latest/index.html
+
+Django migrate --fake 与 --fake-initial
+https://blog.csdn.net/Enceladuce/article/details/102785738
+
+https详解
+https://www.jianshu.com/p/e30a8c4fa329
+-----------------------------------------------
+
+
+
+
+-----------------------------------------------
+复习复习
+http://www.bubuko.com/infodetail-3477928.html?__cf_chl_jschl_tk__=90ad4bfb5ad55a4dd5f2c29cbc0fc8ededb8fecb-1588004832-0-
+ARQARHMSaYC7mRHiwXicJZk84cDkBmgBbTnmmOiRLhgCX320xk_Wq6qDW8gsrJ_GCe_yaN7riDDDUcQ2XWTyxBSkfAezXZpY7HWKkuh5dPD59remEMPL41ZkHGSss
+0Aez26CdqOQagsK6uQHhaqjrTIgfwIP0uecXpM38Hu0NbdpSarvQ9hGOsjGqwIz2umamAy1R3oIIybwloRLhYB0p1JtiNA0hOuDH-sq7WqIlJ6BZ-
+KlE95VKaXA_MB_PUJFAmfuUfMWVkzKfd8_BPVv5WrOsk8SNhzkBXUPcamxiK_jpMTFYURZB2IyADfB1Tg2Iw
+-----------------------------------------------
+
+
+
+
+-----------------------------------------------
+git 公钥私钥
+https://www.cnblogs.com/php-studys/p/7809991.html
+-----------------------------------------------
+
+
+
+-----------------------------------------------
+Nginx 从安装到配置，看这篇教程就够了
+https://www.jianshu.com/p/5d6bd48b4c2f
+
+https://www.jianshu.com/c/18dd84d66135
+
+Redis 命令参考
+http://redisdoc.com/
+
+Linux学习教程，Linux入门教程（超详细）
+http://c.biancheng.net/linux_tutorial/10/
+
+docker学习
+https://blog.csdn.net/IronmanJay/article/details/104677814?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
+-----------------------------------------------
+
+
+
+
+-----------------------------------------------
+小姐姐哔哩哔哩
+https://www.bilibili.com/video/BV1nJ411n7dV?from=search&seid=17277885924190632374
+
+LeetCode小姐姐刷题顺序及github笔记
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md
+
+https://github.com/CyC2018/CS-Notes
+
+https://github.com/CyC2018
+
+https://cspiration.com/leetcodeClassification
+
+很好的github后端文章
+https://github.com/wupeixuan
+-----------------------------------------------
+
+
+
+
+-----------------------------------------------
+官方文档 mysql对json方面的各种支持函数
+https://dev.mysql.com/doc/refman/8.0/en/json.html
+
+这个是csdn上面一个中文的总结
+https://blog.csdn.net/szxiaohe/article/details/82772881?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+-----------------------------------------------
+
+
+
+
+-----------------------------------------------
+git commit 规范指南
+https://www.jianshu.com/p/201bd81e7dc9?utm_source=oschina-app
+
+使用commitizen的正确姿势
+https://blog.csdn.net/bingospunky/article/details/75305278?utm_source=blogxgwz3
+
+官方文档的相关参考
+关闭issue
+http://39.97.228.3:9092/help/user/project/issues/closing_issues.md
+关联Issue
+http://39.97.228.3:9092/help/user/project/issues/crosslinking_issues.md
+-----------------------------------------------
+
+
+
+
+
